@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DriverAzure": "ODBC Driver 17 for SQL Server",
+    "ServerBdAzure": "servidornuevo1.database.windows.net",
+    "DataBaseAzure": "basededatos",
+    "UserNameBdAzure": "servidornuevo",
+    "PassWordBdAzure": "ITM_2020",
+    "SQL_datos": "SELECT * FROM logsX"
+  }
+}
