@@ -46,4 +46,4 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
     if variable1 < 10:
         return func.HttpResponse(json_response)
     else:
-        return func.HttpResponse("Puede que se ingresara un valor mal en el postman pero la funcion trabaja bien",status_code=200)
+        return func.HttpResponse("NUBE Puede que se ingresara un valor mal en el postman pero la funcion se ejecuto bien",status_code=200)
